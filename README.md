@@ -35,8 +35,8 @@ public class JavaDev {
 
 ## Experiência de trabalho
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images2.imgbox.com/d8/82/j5JojAON_o.jpeg"/>]("")
-**Analista Desenvolvedor** \ 2022 - Present
-[**Health Solutions**]("") • Full-time \
+**Analista Desenvolvedor** \ 
+[**Health Solutions**]("") • Full-time | 2022 - Present \
 Linguagens & Tecnologias: `Java`, `Spring`, `PL/SQL`, `JavaScript`, `Backbone.js`, `Jquery`,\
 <br>
 
