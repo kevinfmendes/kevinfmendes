@@ -2,7 +2,7 @@
 Desenvolvedor Fullstack com quase 2 anos de xp. Atualmente focado em funcionalidades backend usando principalmente Java e Ecossistema Spring para melhorar o produto da empresa, mas também possuo xp e conhecimento em FrontEnd (JS/Angular). <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mendesnkevin/)
 
-<img align="right" margin-left="50px" width="357" src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif"/>
+<img align="right" margin-left="50px" width="300" src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif"/>
 
 ```java
 public class JavaDev {
