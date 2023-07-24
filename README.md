@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F726&width=435&lines=Kevin+Mendes;Desenvolvedor+Fullstack)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=EDEFF7&width=435&lines=Kevin+Mendes;Desenvolvedor+Fullstack)](https://git.io/typing-svg)<br>
 Desenvolvedor Fullstack com quase 2 anos de xp. Atualmente focado em funcionalidades backend usando principalmente Java e Ecossistema Spring para melhorar o produto da empresa, mas também possuo xp e conhecimento em FrontEnd (JS/Angular). <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mendesnkevin/)
 
@@ -35,8 +35,9 @@ public class JavaDev {
 
 ## Experiência de trabalho
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images2.imgbox.com/d8/82/j5JojAON_o.jpeg"/>]("")
-**Analista Desenvolvedor** \ 
-[**Health Solutions**]("") • Full-time | 2022 - Present \
+**Analista Desenvolvedor** at [**Health Solutions**]("") 
+<br> 2022 - Present <br>
+Full-time \
 Linguagens & Tecnologias: `Java`, `Spring`, `PL/SQL`, `JavaScript`, `Backbone.js`, `Jquery`,\
 <br>
 
