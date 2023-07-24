@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=05F75B&width=435&lines=Kevin+Mendes;Desenvolvedor+Fullstack)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F726&width=435&lines=Kevin+Mendes;Desenvolvedor+Fullstack)](https://git.io/typing-svg)<br>
 Desenvolvedor Fullstack com quase 2 anos de xp. Atualmente focado em funcionalidades backend usando principalmente Java e Ecossistema Spring para melhorar o produto da empresa, mas também possuo xp e conhecimento em FrontEnd (JS/Angular). <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mendesnkevin/)
 
