@@ -5,13 +5,13 @@
 <img align="right" margin-left="50px" width="320" src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif"/>
 
 ```java
-public class JavaDev {
+public class Dev {
     private String name, cargo, skills, stack;
-    public JavaDev() {
+    public Dev() {
         this.name = "Kevin Mendes"
         this.cargo = "Software Developer";
         this.skills = "Web Development, Fullstack Developer, SQL";
-        this.stack = "Java, Spring, SQL, JavaScript, Angular";
+        this.stack = "Java, Spring, SQL, PHP, JavaScript, Angular";
     }
 }
 ```
@@ -23,7 +23,7 @@ public class JavaDev {
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfmendes&theme=dracula&hide_langs_below=1" />
 </a>
 
-#### Backend: Java, Spring Framework, RESTful APIs;
+#### Backend: Java, Spring Framework, RESTful APIs, PHP;
 #### Frontend: HTML, CSS, JavaScript, Angular;
 #### Databases: SQL, Oracle, PL/SQL;
 #### Version Control: Git;
