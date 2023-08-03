@@ -10,8 +10,8 @@ public class Dev {
     public Dev() {
         this.name = "Kevin Mendes"
         this.cargo = "Software Developer";
-        this.skills = "Web Development, Fullstack Developer, SQL";
-        this.stack = "Java, Spring, SQL, PHP, JavaScript, Angular";
+        this.skills = "Web Development, Fullstack Developer, SQL, Mobile";
+        this.stack = "Java, Spring, SQL, PHP, JavaScript, Angular, Dart/Flutter";
     }
 }
 ```
@@ -26,6 +26,7 @@ public class Dev {
 #### Backend: Java, Spring Framework, RESTful APIs, PHP;
 #### Frontend: HTML, CSS, JavaScript, Angular;
 #### Databases: SQL, Oracle, PL/SQL;
+#### Mobile: Dart, Flutter;
 #### Version Control: Git;
 #### Tools: Eclipse, IntelliJ IDEA, Visual Studio Code;
 <br>
