@@ -6,10 +6,10 @@
 
 ```java
 public class Dev {
-    private String name, cargo, skills, stack;
+    private String name, role, skills, stack;
     public Dev() {
         this.name = "Kevin Mendes"
-        this.cargo = "Software Developer";
+        this.role = "Software Developer";
         this.skills = "Web Development, Fullstack Developer, SQL, Mobile";
         this.stack = "Java, Spring, SQL, PHP, JavaScript, Angular, Dart/Flutter";
     }
