@@ -11,7 +11,7 @@ public class Dev {
         this.name = "Kevin Mendes"
         this.role = "Software Developer";
         this.skills = "Web Development, Fullstack Developer, SQL, Mobile";
-        this.stack = "Java, Spring, SQL, PHP, JavaScript, Angular, Dart/Flutter";
+        this.stack = "Java, Spring, SQL, React, JavaScript, Dart/Flutter";
     }
 }
 ```
@@ -23,9 +23,9 @@ public class Dev {
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfmendes&theme=dracula&hide_langs_below=1" />
 </a>
 
-#### Backend: Java, Spring Framework, RESTful APIs, PHP;
-#### Frontend: HTML, CSS, JavaScript, Angular;
-#### Databases: SQL, Oracle, PL/SQL;
+#### Backend: Java, Spring, RESTful APIs, PHP;
+#### Frontend: React, JavaScript, Bootstrap, Angular;
+#### Databases: SQL, Oracle, PL/SQL, SQLServer;
 #### Mobile: Dart, Flutter;
 #### Version Control: Git;
 #### Tools: Eclipse, IntelliJ IDEA, Visual Studio Code;
