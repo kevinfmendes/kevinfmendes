@@ -1,4 +1,4 @@
-<img  width="1100" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTg5cWo5eTlnd2t3am5oMGN2dTZhdWs5dWJ5eGk3a3Z2ZGdzYWNnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"/>
+<img  width="1100" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJvZjNkNWtrbDBmem9tbGNob3MwMmxvaHVrMm8yYmlncXFtYWJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif"/>
 
 ```java
 public class Dev {
@@ -11,9 +11,8 @@ public class Dev {
     }
 }
 ```
-<img  width="1100" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTg5cWo5eTlnd2t3am5oMGN2dTZhdWs5dWJ5eGk3a3Z2ZGdzYWNnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"/>
+<img  width="1100" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJvZjNkNWtrbDBmem9tbGNob3MwMmxvaHVrMm8yYmlncXFtYWJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif"/>
 
-<br>
 
 ### 🔧 Technologies & Tools
 
