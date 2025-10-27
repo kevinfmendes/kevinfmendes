@@ -1,4 +1,3 @@
-<img  width="1100" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJvZjNkNWtrbDBmem9tbGNob3MwMmxvaHVrMm8yYmlncXFtYWJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif"/>
 
 ```java
 public class Dev {
@@ -11,9 +10,6 @@ public class Dev {
     }
 }
 ```
-<img  width="1100" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJvZjNkNWtrbDBmem9tbGNob3MwMmxvaHVrMm8yYmlncXFtYWJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif"/>
-
-
 ### 🔧 Technologies & Tools
 
 <a href="https://github.com/kevinfmendes">
