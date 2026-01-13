@@ -1,6 +1,6 @@
 
 ```java
-public class Dev {
+class Dev {
     private String name, role, skills, stack;
     public Dev() {
         this.name = "Kevin Mendes"
