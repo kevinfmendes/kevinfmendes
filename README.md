@@ -10,6 +10,8 @@ class Dev {
     }
 }
 ```
+
+<!--
 ### 🔧 Technologies & Tools
 
 <a href="https://github.com/kevinfmendes">
@@ -21,9 +23,8 @@ class Dev {
 #### Databases: Postgres, Oracle, PL/SQL, SQLServer;
 #### Mobile: Dart, Flutter;
 #### Version Control: Git;
-#### Tools: IntelliJ IDEA, Visual Studio Code, Eclipse;
+#### IntelliJ IDEA, Visual Studio Code, Eclipse;
 <br>
 <br>
-
 
 
